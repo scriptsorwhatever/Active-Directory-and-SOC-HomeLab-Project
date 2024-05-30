@@ -3,6 +3,8 @@
 
 Welcome to my Active Directory and SOC HomeLab Project! This repository contains a comprehensive guide to setting up an Active Directory environment, integrating it with Splunk for logging and analysis, and using Kali Linux for red team activities. This project is designed to demonstrate my technical skills and is part of my portfolio on GitHub.
 
+![git-image](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/9113fd82-2195-4b7f-8617-327557bb465a)
+
 ## Project Overview
 
 This project will guide you through:
