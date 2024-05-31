@@ -9,7 +9,7 @@ This guide provides step-by-step instructions to set up a fully functional Activ
 ![AD-Diagram](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/c6a76c1e-5c5c-4054-889e-31524b44c693)
 
 
-## Windows Target Machine Installation
+## Windows 10 Target Machine Installation
 
 ![1](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/f1a7e99f-d186-4383-93fa-f0e923f99bcd)
 ![2](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/cb85f590-68aa-4d57-8e67-a3b087a04436)
@@ -33,7 +33,7 @@ This guide provides step-by-step instructions to set up a fully functional Activ
 ![20](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/b306b563-e7bb-44ab-8e8d-1fc14c4fb59e)
 
 
-##Kali Machine Installation
+## Kali Machine Installation
 
 ![KALI-1 (1)](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/ec03a779-46d6-461e-a301-e0cc5c303098)
 ![KALI-2 (1)](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/4c661f4c-e996-42fe-83de-f1776fa9b01f)
