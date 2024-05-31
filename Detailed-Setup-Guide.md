@@ -1,3 +1,14 @@
+
+## Detailed Installation Guide
+
+### Overview
+
+This guide provides step-by-step instructions to set up a fully functional Active Directory environment integrated with Splunk and Kali Linux using VirtualBox. The project includes the installation and configuration of Windows Server, Ubuntu Server, Windows 10, and Kali Linux virtual machines, along with network setup and data forwarding to Splunk for monitoring and analysis.
+
+![AD-Diagram](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/c6a76c1e-5c5c-4054-889e-31524b44c693)
+
+### Windows Target Machine Installation
+
 ![1](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/f1a7e99f-d186-4383-93fa-f0e923f99bcd)
 ![2](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/cb85f590-68aa-4d57-8e67-a3b087a04436)
 ![3](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/4822580b-befa-427b-bf23-15eeab79082d)
@@ -26,3 +37,4 @@
 ![KALI-5 (1)](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/c7946390-944a-4927-aa8a-e171451421b7)
 ![KALI-6 (1)](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/fa43a5db-ac00-452c-a4fe-389059807ca0)
 
+## THE DEFAULT CREDENTIALS FOR THE KALI BOX ARE KALI:KALI
