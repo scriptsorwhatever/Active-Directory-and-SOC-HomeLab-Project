@@ -5,6 +5,8 @@ Welcome to my Active Directory and SOC HomeLab Project! This repository contains
 
 ![git-image](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/9113fd82-2195-4b7f-8617-327557bb465a)
 
+![AD-Diagram](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/c6a76c1e-5c5c-4054-889e-31524b44c693)
+
 ## Project Overview
 
 This project will guide you through:
