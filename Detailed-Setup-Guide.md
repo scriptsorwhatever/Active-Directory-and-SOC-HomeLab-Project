@@ -18,3 +18,11 @@
 ![18](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/d4c2f2af-7ef4-465d-ac28-349e581a5141)
 ![19](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/60f0e4ff-a55d-4aad-b558-db5735b4c3b7)
 ![20](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/b306b563-e7bb-44ab-8e8d-1fc14c4fb59e)
+
+![KALI-1 (1)](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/ec03a779-46d6-461e-a301-e0cc5c303098)
+![KALI-2 (1)](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/4c661f4c-e996-42fe-83de-f1776fa9b01f)
+![KALI-3 (1)](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/250c562a-b84e-4ead-aba5-9d1cd842860f)
+![KALI-4 (1)](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/05bbd372-fb81-44af-8d84-00547144d576)
+![KALI-5 (1)](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/c7946390-944a-4927-aa8a-e171451421b7)
+![KALI-6 (1)](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/fa43a5db-ac00-452c-a4fe-389059807ca0)
+
