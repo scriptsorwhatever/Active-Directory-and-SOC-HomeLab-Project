@@ -44,7 +44,7 @@ This guide provides step-by-step instructions to set up a fully functional Activ
 
 ### THE DEFAULT CREDENTIALS FOR THE KALI BOX ARE KALI:KALI
 
-## Active Directory Installation
+## Ubuntu Server Installation
 
 ![1 (2)](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/457be3d5-07c4-47a1-95fa-dcc76e15c484)
 ![2 (2)](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/4b87d6f2-f7fc-4937-b414-a9877d5ddf96)
@@ -75,3 +75,22 @@ This guide provides step-by-step instructions to set up a fully functional Activ
 ![27 (1)](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/35e2f5d6-0db7-491d-a9d0-ce31223a237b)
 ![28 (1)](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/96241b6f-c330-406d-9cb8-a5eb0606fc19)
 
+## Windows Server Installation
+
+![1 (2)](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/e6a1f3a7-20f9-461a-ba14-c455b09fc253)
+![2 (2)](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/4f44cf9c-2dde-462b-94f2-054b712f3ea0)
+![3 (2)](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/378a8297-1dbc-4228-acfb-7a17fa22ceb4)
+![4 (2)](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/e1f69336-08c7-4f20-a0f3-41e7bc2551b5)
+![5 (2)](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/13c45c3d-c2bd-4319-962b-8188be076dc9)
+![6 (2)](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/7f8cc2a3-13d7-4832-b922-2faac473260c)
+![7 (2)](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/ad871d9e-bb1e-485d-9c66-69afa7cb20bc)
+![8 (2)](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/356261a6-5dbc-477b-a11a-409132fff6c3)
+![9 (2)](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/e97cfa01-cff8-45b4-8198-4d989875d23f)
+![10 (2)](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/3829c7a7-72b8-4a70-b92c-a01bbe6e85aa)
+![11 (1)](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/37b16153-3254-448f-bca6-2603506c9dbe)
+![12 (1)](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/66fdd5ac-c596-4787-b132-d2e09c747d1e)
+![13 (1)](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/d84c8daf-7f50-42c9-8516-06171ae02d3e)
+![14 (1)](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/71484881-3b1a-442c-8575-61df9473208e)
+![15 (1)](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/b628129e-4384-4296-b508-75a4ca1ee5c3)
+![16 (1)](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/fff5d54b-e4d9-4e46-8218-839e8464e4e7)
+![17 (1)](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/db166f4f-90bb-4646-9434-38686605772d)
