@@ -16,6 +16,7 @@ This guide provides step-by-step instructions to set up a fully functional Activ
 
 - [Kali Brute Force Attack & Viewing Telemetry via Splunk](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/blob/main/Detailed-Setup-Guide.md#kali-brute-force-attack--viewing-telemetry-via-splunk)
 
+#
 
 ![AD-Diagram](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/c6a76c1e-5c5c-4054-889e-31524b44c693)
 
