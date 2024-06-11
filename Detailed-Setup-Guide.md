@@ -193,3 +193,18 @@ This guide provides step-by-step instructions to set up a fully functional Activ
 ![4](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/19fd36d7-1466-4e1e-9d02-87fccedbc14a)
 ![5](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/11d4133b-949d-4876-ad84-992a4c281d3b)
 ![6](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/e2c37580-b7ab-4ed8-ab92-79891afd8fb1)
+
+## Kali Brute Force Attack & Viewing Telemetry via Splunk
+
+![1](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/0f9c18f1-0240-479b-9143-0409112de903)
+![2](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/10c76e6c-78cf-45eb-917e-f6b95f4a458e)
+![3](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/ff3cd892-b406-4047-9132-99643b7be6f8)
+![4](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/01a8c8d1-fa60-4fd0-8c7a-6873d5f5fcf6)
+![5](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/d3237621-d579-4822-bdd1-8ea53eff714b)
+![6](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/5e71733c-9bab-43cd-a74b-2b91bf540044)
+![7](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/cb8e78ca-2961-4740-b231-f03143445ccf)
+![8](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/5450d190-f9ad-4fef-b91b-9a8ef06671ef)
+![9](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/4bd7bf0e-3332-46e9-ba99-aa60e5274161)
+![10](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/6b541e9e-5212-4474-8d56-4d8932acf2e1)
+![11](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/515fa5e1-67b5-4a66-b1f7-bb26af76e84f)
+
