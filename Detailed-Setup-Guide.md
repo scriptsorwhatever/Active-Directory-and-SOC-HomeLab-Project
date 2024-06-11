@@ -4,6 +4,8 @@
 
 This guide provides step-by-step instructions to set up a fully functional Active Directory environment integrated with Splunk and Kali Linux using VirtualBox. The project includes the installation and configuration of Windows Server, Ubuntu Server, Windows 10, and Kali Linux virtual machines, along with network setup and data forwarding to Splunk for monitoring and analysis.
 
+#
+
 ### Sections
 
 - [Windows 10 Target Machine Installation](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/blob/main/Detailed-Setup-Guide.md#windows-10-target-machine-installation)
