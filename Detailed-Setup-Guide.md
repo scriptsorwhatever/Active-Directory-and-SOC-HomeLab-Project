@@ -9,10 +9,12 @@ This guide provides step-by-step instructions to set up a fully functional Activ
 ### Sections
 
 - [Windows 10 Target Machine Installation](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/blob/main/Detailed-Setup-Guide.md#windows-10-target-machine-installation)
-
-- [Ubuntu Server Installation](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/blob/main/Detailed-Setup-Guide.md#ubuntu-server-installation)
   
 - [Kali Machine Installation](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/blob/main/Detailed-Setup-Guide.md#kali-machine-installation)
+
+- [Ubuntu Server Installation](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/blob/main/Detailed-Setup-Guide.md#ubuntu-server-installation)
+
+- [Windows Server Installation](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/blob/main/Detailed-Setup-Guide.md#windows-server-installation)
   
 - [Installing & Configuring Sysmon & Splunk](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/blob/main/Detailed-Setup-Guide.md#installing--configuring-sysmon--splunk)
   
