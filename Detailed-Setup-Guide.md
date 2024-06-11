@@ -1,9 +1,20 @@
-
 ## Detailed Installation Guide
 
 ### Overview
 
 This guide provides step-by-step instructions to set up a fully functional Active Directory environment integrated with Splunk and Kali Linux using VirtualBox. The project includes the installation and configuration of Windows Server, Ubuntu Server, Windows 10, and Kali Linux virtual machines, along with network setup and data forwarding to Splunk for monitoring and analysis.
+
+### Sections
+
+- [Windows 10 Target Machine Installation](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/blob/main/Detailed-Setup-Guide.md#windows-10-target-machine-installation)
+  
+- [Kali Machine Installation](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/blob/main/Detailed-Setup-Guide.md#kali-machine-installation)
+  
+- [Installing & Configuring Sysmon & Splunk](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/blob/main/Detailed-Setup-Guide.md#installing--configuring-sysmon--splunk)
+  
+- [Installing & Configuring Windows Server and Windows PC (Target Machine)](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/blob/main/Detailed-Setup-Guide.md#installing--configuring-windows-server-and-windows-pc-target-machine)
+
+- [Kali Brute Force Attack & Viewing Telemetry via Splunk](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/blob/main/Detailed-Setup-Guide.md#kali-brute-force-attack--viewing-telemetry-via-splunk)
 
 
 ![AD-Diagram](https://github.com/scriptsorwhatever/Active-Directory-and-SOC-HomeLab-Project/assets/130718809/c6a76c1e-5c5c-4054-889e-31524b44c693)
